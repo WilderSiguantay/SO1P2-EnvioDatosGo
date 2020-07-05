@@ -3,112 +3,112 @@
         "Nombre": "Aleix Ribera",
         "Departamento": "Xela",
         "Edad": 30,
-        "Forma de contagio": "Comunitario",
+        "Forma_de_contagio": "Comunitario",
         "Estado": "Recuperado"
     },
     {
         "Nombre": "Maria Rocio Lobo",
         "Departamento": "Xela",
         "Edad": 28,
-        "Forma de contagio": "Comunitario",
+        "Forma_de_contagio": "Comunitario",
         "Estado": "Recuperado"
     },
     {
         "Nombre": "Francisco Jose Santamaria",
         "Departamento": "Chiquimula",
         "Edad": 30,
-        "Forma de contagio": "Comunitario",
+        "Forma_de_contagio": "Comunitario",
         "Estado": "Activo"
     },
     {
         "Nombre": "Isidro Puente",
         "Departamento": "Escuintla",
         "Edad": 65,
-        "Forma de contagio": "Comunitario",
+        "Forma_de_contagio": "Comunitario",
         "Estado": "Recuperado"
     },
     {
         "Nombre": "Luis Angel Fariña",
         "Departamento": "Jalapa",
         "Edad": 55,
-        "Forma de contagio": "Comunitario",
+        "Forma_de_contagio": "Comunitario",
         "Estado": "Recuperado"
     },
     {
         "Nombre": "Samira Lujan",
         "Departamento": "Zacapa",
         "Edad": 58,
-        "Forma de contagio": "Comunitario",
+        "Forma_de_contagio": "Comunitario",
         "Estado": "Recuperado"
     },
     {
         "Nombre": "Marco Antonio Barranco",
         "Departamento": "Guatemala",
         "Edad": 56,
-        "Forma de contagio": "Comunitario",
+        "Forma_de_contagio": "Comunitario",
         "Estado": "Recuperado"
     },
     {
         "Nombre": "Ramon Puertas",
         "Departamento": "Huehuetenango",
         "Edad": 25,
-        "Forma de contagio": "Comunitario",
+        "Forma_de_contagio": "Comunitario",
         "Estado": "Activo"
     },
     {
         "Nombre": "Eusebia Crespo",
         "Departamento": "Sololá",
         "Edad": 39,
-        "Forma de contagio": "Comunitario",
+        "Forma_de_contagio": "Comunitario",
         "Estado": "Recuperado"
     },
     {
         "Nombre": "Olaya Amado",
         "Departamento": "Alta Verapaz",
         "Edad": 16,
-        "Forma de contagio": "Comunitario",
+        "Forma_de_contagio": "Comunitario",
         "Estado": "Activo"
     },
     {
         "Nombre": "Alesandro Maza",
         "Departamento": "Petén",
         "Edad": 28,
-        "Forma de contagio": "Comunitario",
+        "Forma_de_contagio": "Comunitario",
         "Estado": "Activo"
     },
     {
         "Nombre": "Lazaro Lucas",
         "Departamento": "Alta Verapaz",
         "Edad": 19,
-        "Forma de contagio": "Comunitario",
+        "Forma_de_contagio": "Comunitario",
         "Estado": "Activo"
     },
     {
         "Nombre": "Estibaliz Bernabe",
         "Departamento": "Totonicapan",
         "Edad": 48,
-        "Forma de contagio": "Comunitario",
+        "Forma_de_contagio": "Comunitario",
         "Estado": "Recuperado"
     },
     {
         "Nombre": "Estibaliz Bernabe",
         "Departamento": "Escuintla",
         "Edad": 65,
-        "Forma de contagio": "Comunitario",
+        "Forma_de_contagio": "Comunitario",
         "Estado": "Recuperado"
     },
     {
         "Nombre": "Elias Blasco",
         "Departamento": "Guatemala",
         "Edad": 88,
-        "Forma de contagio": "Comunitario",
+        "Forma_de_contagio": "Comunitario",
         "Estado": "Recuperado"
     },
     {
         "Nombre": "Carmela Pedrosa",
         "Departamento": "Guatemala",
         "Edad": 70,
-        "Forma de contagio": "Comunitario",
+        "Forma_de_contagio": "Comunitario",
         "Estado": "Recuperado"
     }
 ]

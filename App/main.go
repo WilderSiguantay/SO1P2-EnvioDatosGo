@@ -12,11 +12,11 @@ import (
 )
 
 type casos struct {
-	Name     string `json:"Nombre"`
-	Depto    string `json:"Departamento"`
-	Edad     int    `json:"Edad"`
-	Contagio string `json:"Forma_de_contagio"`
-	Estado   string `json:"Estado"`
+	Name          string `json:"Nombre"`
+	Depto         string `json:"Departamento"`
+	Edad          int    `json:"Edad"`
+	FormaContagio string `json:"Forma_de_contagio"`
+	Estado        string `json:"Estado"`
 }
 
 func homeLink(w http.ResponseWriter, r *http.Request) {
