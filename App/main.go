@@ -14,8 +14,8 @@ import (
 type casos struct {
 	Name     string `json:"Nombre"`
 	Depto    string `json:"Departamento"`
-	Edad     string `json:"Edad"`
-	Contagio string `json:"Forma de contagio"`
+	Edad     int    `json:"Edad"`
+	Contagio string `json:"Forma_de_contagio"`
 	Estado   string `json:"Estado"`
 }
 
