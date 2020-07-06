@@ -1,0 +1,1010 @@
+[
+    {
+        "Nombre" : "Pedro Nogueroles Parres",
+        "Departamento" : "Chimaltenago",
+        "Edad" : "59",
+        "Forma de contagio" : "Extranjero",
+        "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Jose Vicente Canales Sanchez",
+            "Departamento" : "Huehuetenango",
+            "Edad" : "80",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Soriano",
+            "Departamento" : "Izabal",
+            "Edad" : "7",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Julio Cerdan Garcia",
+            "Departamento" : "El Progreso",
+            "Edad" : "73",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Mauricio Gasser Delgado",
+            "Departamento" : "Izabal",
+            "Edad" : "29",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Emilio Albaladejo",
+            "Departamento" : "Chimaltenago",
+            "Edad" : "82",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Mari Vi Torres",
+            "Departamento" : "Escuintla",
+            "Edad" : "55",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Mari Tere Torres (helados Torres)",
+            "Departamento" : "Chiquimula",
+            "Edad" : "63",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Berta Walther Monteliu",
+            "Departamento" : "Huehuetenango",
+            "Edad" : "46",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Pepe Gil Bernabe",
+            "Departamento" : "El Progreso",
+            "Edad" : "14",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Esther Fernandez Mendez",
+            "Departamento" : "Guatemala",
+            "Edad" : "78",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Mari Carmen Lozano Pulido",
+            "Departamento" : "Baja Verapaz",
+            "Edad" : "11",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Rolanda Marin Garcia",
+            "Departamento" : "Escuintla",
+            "Edad" : "68",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Maria Isabel Ribera Hernandez",
+            "Departamento" : "Jalapa",
+            "Edad" : "15",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Maria Teresa Puigcerver Costa",
+            "Departamento" : "Jalapa",
+            "Edad" : "21",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Sofia Perello",
+            "Departamento" : "Guatemala",
+            "Edad" : "94",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Julio Cerdan Garcia",
+            "Departamento" : "El Progreso",
+            "Edad" : "30",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Cristina Martine Herrera",
+            "Departamento" : "Chimaltenago",
+            "Edad" : "80",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Maria Jose Zambrana",
+            "Departamento" : "Escuintla",
+            "Edad" : "56",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Maria Teresa Puigcerver Costa",
+            "Departamento" : "Escuintla",
+            "Edad" : "67",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Rosario Molina Viudes",
+            "Departamento" : "Izabal",
+            "Edad" : "51",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Miguel Angel Maldonado",
+            "Departamento" : "Escuintla",
+            "Edad" : "47",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Raquel Martinez Roca",
+            "Departamento" : "Guatemala",
+            "Edad" : "50",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Antonio Parada Amores",
+            "Departamento" : "Baja Verapaz",
+            "Edad" : "67",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Emilio Albaladejo",
+            "Departamento" : "El Progreso",
+            "Edad" : "86",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Antonia Maria Ortiz Macia",
+            "Departamento" : "Huehuetenango",
+            "Edad" : "17",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Maite Garcia Jimenez",
+            "Departamento" : "Izabal",
+            "Edad" : "46",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Kevin",
+            "Departamento" : "El Progreso",
+            "Edad" : "8",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Maria Dolores Coral Sanchez",
+            "Departamento" : "Chiquimula",
+            "Edad" : "88",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Kevin",
+            "Departamento" : "Jalapa",
+            "Edad" : "97",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Berta Walther Monteliu",
+            "Departamento" : "Baja Verapaz",
+            "Edad" : "33",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Esther Diaz Arenas",
+            "Departamento" : "Baja Verapaz",
+            "Edad" : "4",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Oscar Vilella Cases",
+            "Departamento" : "El Progreso",
+            "Edad" : "20",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Angel Aldeguer",
+            "Departamento" : "Chiquimula",
+            "Edad" : "72",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Emilio Albaladejo",
+            "Departamento" : "Guatemala",
+            "Edad" : "14",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Jaqueline Guillamon Paredes",
+            "Departamento" : "Huehuetenango",
+            "Edad" : "21",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Esther Fernandez Mendez",
+            "Departamento" : "Izabal",
+            "Edad" : "52",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Jose Manuel Penades Cambra",
+            "Departamento" : "Huehuetenango",
+            "Edad" : "9",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Joaquin Saez Fulgencio",
+            "Departamento" : "Escuintla",
+            "Edad" : "90",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Manuel Quesada Mazon",
+            "Departamento" : "Escuintla",
+            "Edad" : "98",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Irene Tejuelo Tormes",
+            "Departamento" : "Huehuetenango",
+            "Edad" : "95",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Finin Gutierrez Torres",
+            "Departamento" : "Huehuetenango",
+            "Edad" : "86",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Pilar Galiana Torregrosa",
+            "Departamento" : "Izabal",
+            "Edad" : "27",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Santiago Tornero Sanchez",
+            "Departamento" : "El Progreso",
+            "Edad" : "22",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Isabel Martinez Andreu",
+            "Departamento" : "Alta Verapaz",
+            "Edad" : "9",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Berta Walther Monteliu",
+            "Departamento" : "Huehuetenango",
+            "Edad" : "50",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Angel Luis Garcia Chazarra",
+            "Departamento" : "Jalapa",
+            "Edad" : "3",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Mari Vi Torres",
+            "Departamento" : "Chimaltenago",
+            "Edad" : "21",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Maria Jesus Garcia Quiles",
+            "Departamento" : "Escuintla",
+            "Edad" : "21",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Regina Palomo Dlugi",
+            "Departamento" : "Escuintla",
+            "Edad" : "27",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Pablo Martinez Albaladejo",
+            "Departamento" : "Chimaltenago",
+            "Edad" : "42",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Asun Martinez Fructuoso (kiosko el isla)",
+            "Departamento" : "Escuintla",
+            "Edad" : "23",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Miguel Angel Maldonado",
+            "Departamento" : "Izabal",
+            "Edad" : "40",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Gerardo",
+            "Departamento" : "Jalapa",
+            "Edad" : "91",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Rosario Molina Viudes",
+            "Departamento" : "Guatemala",
+            "Edad" : "87",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Paco Hurtado",
+            "Departamento" : "Izabal",
+            "Edad" : "47",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Jose Antonio Miñano Gonzalez",
+            "Departamento" : "El Progreso",
+            "Edad" : "28",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Finin Gutierrez Torres",
+            "Departamento" : "Chimaltenago",
+            "Edad" : "51",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Maria Teresa Puigcerver Costa",
+            "Departamento" : "Izabal",
+            "Edad" : "65",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Sofia Perello",
+            "Departamento" : "El Progreso",
+            "Edad" : "74",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Manuel Quesada Mazon",
+            "Departamento" : "Escuintla",
+            "Edad" : "17",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Asun Martinez Fructuoso (kiosko el isla)",
+            "Departamento" : "Chiquimula",
+            "Edad" : "9",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Ricardo Riqui",
+            "Departamento" : "El Progreso",
+            "Edad" : "6",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Jose Antonio Gonzalez Gonzalez",
+            "Departamento" : "Chimaltenago",
+            "Edad" : "53",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Ramon Perez Cervantes (hijo de D Ramon)",
+            "Departamento" : "Chimaltenago",
+            "Edad" : "84",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Jose Maria Macia (hablar con fernando)",
+            "Departamento" : "Chimaltenago",
+            "Edad" : "64",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Joaquin Saez Fulgencio",
+            "Departamento" : "Baja Verapaz",
+            "Edad" : "49",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Fernando Albaladejo",
+            "Departamento" : "Chiquimula",
+            "Edad" : "48",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Mari Tere Torres (helados Torres)",
+            "Departamento" : "Baja Verapaz",
+            "Edad" : "78",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Maria Dolores",
+            "Departamento" : "Izabal",
+            "Edad" : "16",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Marta Gutierrez Gomez",
+            "Departamento" : "El Progreso",
+            "Edad" : "99",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Paqui Murcia",
+            "Departamento" : "Guatemala",
+            "Edad" : "9",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Maria del Mar Sanchez Carrasco",
+            "Departamento" : "El Progreso",
+            "Edad" : "47",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Maria Del Mar Galvez",
+            "Departamento" : "Escuintla",
+            "Edad" : "37",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Fernando Garcia",
+            "Departamento" : "Escuintla",
+            "Edad" : "89",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Emilio Albaladejo",
+            "Departamento" : "Alta Verapaz",
+            "Edad" : "75",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Cristina de la fuente Sanchez",
+            "Departamento" : "Guatemala",
+            "Edad" : "34",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Asun Martinez Fructuoso (kiosko el isla)",
+            "Departamento" : "Chimaltenago",
+            "Edad" : "68",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Jose Antonio Miñano Gonzalez",
+            "Departamento" : "Chimaltenago",
+            "Edad" : "73",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Antonia Maria Ortiz Macia",
+            "Departamento" : "Escuintla",
+            "Edad" : "10",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Antonio Vidal Arevalo",
+            "Departamento" : "Chimaltenago",
+            "Edad" : "2",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Eduardo Albaladejo Garcia",
+            "Departamento" : "Izabal",
+            "Edad" : "71",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Manuel Angel Vera Andreu",
+            "Departamento" : "Baja Verapaz",
+            "Edad" : "22",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Juan Galant Torregrosa",
+            "Departamento" : "Baja Verapaz",
+            "Edad" : "1",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Cecilia",
+            "Departamento" : "Chiquimula",
+            "Edad" : "98",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Gracia Martinez Albaladejo",
+            "Departamento" : "Huehuetenango",
+            "Edad" : "98",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Miguel (Petete)",
+            "Departamento" : "Alta Verapaz",
+            "Edad" : "53",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Millan Fernandez de la Riva",
+            "Departamento" : "Baja Verapaz",
+            "Edad" : "58",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Maria Jose Zambrana",
+            "Departamento" : "Baja Verapaz",
+            "Edad" : "91",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Jose Antonio Gonzalez Gonzalez",
+            "Departamento" : "Huehuetenango",
+            "Edad" : "54",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Fernando Albaladejo",
+            "Departamento" : "Guatemala",
+            "Edad" : "94",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Esther Diaz Arenas",
+            "Departamento" : "Izabal",
+            "Edad" : "40",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Maria Jose Ferrandez Cayuelas",
+            "Departamento" : "Alta Verapaz",
+            "Edad" : "25",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Jose Luis Sanchez Barredo",
+            "Departamento" : "Chimaltenago",
+            "Edad" : "1",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Miguel Angel Maldonado",
+            "Departamento" : "Izabal",
+            "Edad" : "67",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Jose Vicente Canales Sanchez",
+            "Departamento" : "Huehuetenango",
+            "Edad" : "59",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Eduardo Albaladejo Garcia",
+            "Departamento" : "Baja Verapaz",
+            "Edad" : "12",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Maria Jose Quesada",
+            "Departamento" : "Izabal",
+            "Edad" : "72",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Jaime Garcia Sala",
+            "Departamento" : "Izabal",
+            "Edad" : "9",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Carmen Dols Montesinos",
+            "Departamento" : "Chimaltenago",
+            "Edad" : "40",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Toñi Mañogil Perez",
+            "Departamento" : "Jalapa",
+            "Edad" : "72",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Miguel (Petete)",
+            "Departamento" : "Chimaltenago",
+            "Edad" : "35",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Asun Fructuoso amiga de Raquel",
+            "Departamento" : "El Progreso",
+            "Edad" : "23",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Maria Vera Ros",
+            "Departamento" : "Guatemala",
+            "Edad" : "79",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Jose Luis Sanchez Barredo",
+            "Departamento" : "Guatemala",
+            "Edad" : "43",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Maria Jose Fructuoso Sanchez",
+            "Departamento" : "Huehuetenango",
+            "Edad" : "4",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Pepe Gil Bernabe",
+            "Departamento" : "Chiquimula",
+            "Edad" : "32",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Joaquin Perez Vidal",
+            "Departamento" : "Huehuetenango",
+            "Edad" : "62",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Juan Ferrandez Ferrandez",
+            "Departamento" : "Huehuetenango",
+            "Edad" : "92",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Enrique Auñon Maldonado",
+            "Departamento" : "Izabal",
+            "Edad" : "7",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Antonio Espuch Alarcon",
+            "Departamento" : "Alta Verapaz",
+            "Edad" : "44",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Angel Luis Garcia Chazarra",
+            "Departamento" : "Chimaltenago",
+            "Edad" : "20",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Maria Teresa Puigcerver Costa",
+            "Departamento" : "Baja Verapaz",
+            "Edad" : "42",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Manuela Pilar Jurado Ferrandez",
+            "Departamento" : "Chimaltenago",
+            "Edad" : "25",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Amparo Ramos Torres",
+            "Departamento" : "Alta Verapaz",
+            "Edad" : "73",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Antonio Vidal Arevalo",
+            "Departamento" : "Chiquimula",
+            "Edad" : "10",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Fallecido"
+    },
+
+    {
+            "Nombre" : "Manuel Quesada Mazon",
+            "Departamento" : "Izabal",
+            "Edad" : "49",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Manuel Quesada Mazon",
+            "Departamento" : "Escuintla",
+            "Edad" : "68",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Mari Nieves Bautista Lopez",
+            "Departamento" : "Escuintla",
+            "Edad" : "90",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Paco Martinez Martinez",
+            "Departamento" : "Jalapa",
+            "Edad" : "74",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Pablo Martinez Albaladejo",
+            "Departamento" : "Huehuetenango",
+            "Edad" : "68",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Paco Hurtado",
+            "Departamento" : "Chimaltenago",
+            "Edad" : "45",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Activo"
+    },
+
+    {
+            "Nombre" : "Maite Garcia Jimenez",
+            "Departamento" : "El Progreso",
+            "Edad" : "51",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Juan Galant Torregrosa",
+            "Departamento" : "Baja Verapaz",
+            "Edad" : "4",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Julio Cerdan Garcia",
+            "Departamento" : "Chiquimula",
+            "Edad" : "8",
+            "Forma de contagio" : "Extranjero",
+            "Estado" : "Recuperado"
+    },
+
+    {
+            "Nombre" : "Paco Martinez Martinez",
+            "Departamento" : "Izabal",
+            "Edad" : "29",
+            "Forma de contagio" : "Comunitario",
+            "Estado" : "Recuperado"
+    },
+
+]
